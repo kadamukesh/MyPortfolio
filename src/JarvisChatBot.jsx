@@ -347,12 +347,7 @@ KLU is known for its quality technical education and strong industry connections
     return `I can help you learn about Kada Mukesh! Ask me about:
 
 • His education and CGPA at KLU
-• Technical skills and programming languages
-• Projects and achievements
-• AWS internship experience
-• Professional certifications
-• Career goals and objectives
-• Contact information
+• Contact information: Mobile No:8919017738 Email:mukeshkada2@gmail.com
 
 What would you like to know specifically? 😊`;
   };

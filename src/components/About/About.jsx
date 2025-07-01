@@ -54,7 +54,13 @@ const About = () => {
             <span style={{ color: theme.colors.text }}>I am a </span>
             <span style={{ color: theme.colors.primary }}>
               <Typewriter
-                words={["Fullstack Developer", "UI/UX Designer", "Coder"]}
+                words={[
+                  "Computer Science Student",
+                  "Fullstack Developer",
+                  "Fast Learner",
+                  "Coder",
+                  "Tech Enthusiast",
+                ]}
                 loop={0}
                 cursor
                 cursorStyle="|"
