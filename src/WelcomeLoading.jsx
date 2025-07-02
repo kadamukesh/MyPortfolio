@@ -7,7 +7,7 @@ export default function LoadingPage() {
   const [currentMessageIndex, setCurrentMessageIndex] = useState(0);
   const [showCursor, setShowCursor] = useState(true);
 
-  const messages = ["Initialising...", "Welcome to My Space"];
+  const messages = ["Initializing ...", "Welcome to My Space"];
 
   // Navigate to about section after 10 seconds
   useEffect(() => {
