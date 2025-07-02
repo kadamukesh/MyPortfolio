@@ -28,7 +28,7 @@ const CVSection = () => {
             style={{ height: "500px" }}
           >
             <iframe
-              src="https://drive.google.com/file/d/1Ilcxyn7qTauLE6Rk76UFO6q6dVwBRHjK/preview"
+              src="https://drive.google.com/file/d/1oy9rwIqGemwSNARxO_ZgkgWiR0wZ798a/view?usp=sharing"
               title="CV Preview"
               className="w-full h-full"
             ></iframe>
